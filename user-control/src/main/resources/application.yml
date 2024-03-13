@@ -1,0 +1,23 @@
+spring:
+  application:
+    name: user-control
+    # DataSource Config
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: 4399
+    url: jdbc:mysql://localhost:3306/laporte?autoReconnect=true&useUnicode=true&characterEncoding=utf8&serverTimezone=GMT%2B8
+  sql:
+    init:
+server:
+  port: 8080
+  servlet:
+    context-path: /api
+mybatis-plus:
+  configuration:
+    map-underscore-to-camel-case: false
+  global-config:
+    db-config:
+      logic-delete-field: isDelete # ????????????(since 3.3.0,????????????2)
+      logic-delete-value: 1 # ??????(??? 1)
+      logic-not-delete-value: 0 # ??????(??? 0)

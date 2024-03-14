@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4f69f56-52cb-4a54-9b53-5fdceb205459" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/User-fronted/src/pages/user/Register/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/config/config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/config/config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/config/defaultSettings.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/config/defaultSettings.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/config/oneapi.json" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/config/oneapi.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/config/proxy.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/config/proxy.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/config/routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/config/routes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/mock/analysis.mock.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/mock/monitor.mock.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/mock/workplace.mock.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/public/scripts/loading.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/app.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/components/Footer/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/components/Footer/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/components/RightContent/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/components/RightContent/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/components/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/components/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/global.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/global.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/bn-BD.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/bn-BD/component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/bn-BD/globalHeader.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/bn-BD/menu.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/bn-BD/pages.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/bn-BD/pwa.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/bn-BD/settingDrawer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/bn-BD/settings.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/en-US.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/en-US/component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/en-US/globalHeader.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/en-US/menu.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/en-US/pages.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/en-US/pwa.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/en-US/settingDrawer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/en-US/settings.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/fa-IR.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/fa-IR/component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/fa-IR/globalHeader.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/fa-IR/menu.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/fa-IR/pages.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/fa-IR/pwa.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/fa-IR/settingDrawer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/fa-IR/settings.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/id-ID.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/id-ID/component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/id-ID/globalHeader.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/id-ID/menu.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/id-ID/pages.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/id-ID/pwa.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/id-ID/settingDrawer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/id-ID/settings.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/ja-JP.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/ja-JP/component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/ja-JP/globalHeader.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/ja-JP/menu.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/ja-JP/pages.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/ja-JP/pwa.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/ja-JP/settingDrawer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/ja-JP/settings.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/pt-BR.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/pt-BR/component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/pt-BR/globalHeader.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/pt-BR/menu.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/pt-BR/pages.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/pt-BR/pwa.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/pt-BR/settingDrawer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/pt-BR/settings.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/zh-CN.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/zh-CN/component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/zh-CN/globalHeader.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/zh-CN/menu.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/zh-CN/pages.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/zh-CN/pwa.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/zh-CN/settingDrawer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/zh-CN/settings.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/zh-TW.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/zh-TW/component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/zh-TW/globalHeader.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/zh-TW/menu.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/zh-TW/pages.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/zh-TW/pwa.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/zh-TW/settingDrawer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/locales/zh-TW/settings.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/404.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/404.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/Admin.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/Admin.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/account/center/Center.style.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/account/center/Center.style.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/account/center/_mock.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/account/center/_mock.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/account/center/components/Applications/index.style.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/account/center/components/Applications/index.style.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/account/center/components/Applications/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/account/center/components/Applications/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/account/center/components/ArticleListContent/index.style.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/account/center/components/ArticleListContent/index.style.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/account/center/components/ArticleListContent/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/account/center/components/ArticleListContent/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/account/center/components/Articles/index.style.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/account/center/components/Articles/index.style.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/account/center/components/Articles/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/account/center/components/Articles/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/account/center/components/AvatarList/index.style.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/account/center/components/AvatarList/index.style.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/account/center/components/AvatarList/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/account/center/components/AvatarList/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/account/center/components/Projects/index.style.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/account/center/components/Projects/index.style.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/account/center/components/Projects/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/account/center/components/Projects/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/account/center/data.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/account/center/data.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/account/center/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/account/center/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/account/center/service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/account/center/service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/account/settings/_mock.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/account/settings/_mock.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/account/settings/components/PhoneView.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/account/settings/components/PhoneView.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/account/settings/components/base.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/account/settings/components/base.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/account/settings/components/binding.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/account/settings/components/binding.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/account/settings/components/index.style.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/account/settings/components/index.style.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/account/settings/components/notification.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/account/settings/components/notification.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/account/settings/components/security.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/account/settings/components/security.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/account/settings/data.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/account/settings/data.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/account/settings/geographic/city.json" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/account/settings/geographic/city.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/account/settings/geographic/province.json" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/account/settings/geographic/province.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/account/settings/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/account/settings/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/account/settings/service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/account/settings/service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/account/settings/style.style.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/account/settings/style.style.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/_mock.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/_mock.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/components/Charts/ChartCard/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/components/Charts/ChartCard/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/components/Charts/ChartCard/index.style.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/components/Charts/ChartCard/index.style.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/components/Charts/ChartCard/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/components/Charts/ChartCard/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/components/Charts/Field/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/components/Charts/Field/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/components/Charts/Field/index.style.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/components/Charts/Field/index.style.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/components/Charts/Field/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/components/Charts/Field/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/components/Charts/MiniProgress/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/components/Charts/MiniProgress/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/components/Charts/WaterWave/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/components/Charts/WaterWave/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/components/Charts/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/components/Charts/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/components/Charts/index.style.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/components/Charts/index.style.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/components/Charts/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/components/Charts/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/components/IntroduceRow.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/components/IntroduceRow.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/components/NumberInfo/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/components/NumberInfo/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/components/NumberInfo/index.style.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/components/NumberInfo/index.style.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/components/NumberInfo/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/components/NumberInfo/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/components/OfflineData.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/components/OfflineData.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/components/PageLoading/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/components/PageLoading/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/components/ProportionSales.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/components/ProportionSales.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/components/SalesCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/components/SalesCard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/components/TopSearch.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/components/TopSearch.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/components/Trend/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/components/Trend/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/components/Trend/index.style.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/components/Trend/index.style.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/components/Trend/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/components/Trend/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/style.less" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/style.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/style.style.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/style.style.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/utils/Yuan.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/analysis/utils/Yuan.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/monitor/_mock.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/monitor/_mock.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/monitor/components/ActiveChart/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/monitor/components/ActiveChart/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/monitor/components/ActiveChart/index.style.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/monitor/components/ActiveChart/index.style.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/monitor/components/ActiveChart/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/monitor/components/ActiveChart/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/monitor/components/Charts/WaterWave/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/monitor/components/Charts/WaterWave/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/monitor/components/Charts/autoHeight.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/monitor/components/Charts/autoHeight.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/monitor/components/Map/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/monitor/components/Map/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/monitor/data.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/monitor/data.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/monitor/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/monitor/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/monitor/service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/monitor/service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/monitor/style.less" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/monitor/style.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/monitor/style.style.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/monitor/style.style.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/workplace/components/EditableLinkGroup/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/workplace/components/EditableLinkGroup/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/workplace/components/EditableLinkGroup/index.style.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/workplace/components/EditableLinkGroup/index.style.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/workplace/components/EditableLinkGroup/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/workplace/components/EditableLinkGroup/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/workplace/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/workplace/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/workplace/service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/workplace/service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/workplace/style.less" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/workplace/style.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/workplace/style.style.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/dashboard/workplace/style.style.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/exception/403/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/exception/403/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/exception/404/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/exception/404/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/exception/500/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/exception/500/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/basic-list/_mock.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/basic-list/_mock.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/basic-list/components/OperationModal.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/basic-list/components/OperationModal.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/basic-list/data.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/basic-list/data.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/basic-list/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/basic-list/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/basic-list/service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/basic-list/service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/basic-list/style.style.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/basic-list/style.style.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/basic-list/utils/utils.style.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/basic-list/utils/utils.style.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/card-list/_mock.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/card-list/_mock.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/card-list/data.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/card-list/data.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/card-list/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/card-list/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/card-list/service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/card-list/service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/card-list/style.style.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/card-list/style.style.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/card-list/utils/utils.style.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/card-list/utils/utils.style.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/search/applications/_mock.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/search/applications/_mock.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/search/applications/components/StandardFormRow/index.style.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/search/applications/components/StandardFormRow/index.style.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/search/applications/components/StandardFormRow/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/search/applications/components/StandardFormRow/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/search/applications/components/TagSelect/index.style.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/search/applications/components/TagSelect/index.style.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/search/applications/components/TagSelect/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/search/applications/components/TagSelect/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/search/applications/data.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/search/applications/data.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/search/applications/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/search/applications/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/search/applications/service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/search/applications/service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/search/applications/style.style.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/search/applications/style.style.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/search/applications/utils/utils.style.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/search/applications/utils/utils.style.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/search/articles/_mock.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/search/articles/_mock.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/search/articles/components/ArticleListContent/index.style.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/search/articles/components/ArticleListContent/index.style.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/search/articles/components/ArticleListContent/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/search/articles/components/ArticleListContent/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/search/articles/components/StandardFormRow/index.style.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/search/articles/components/StandardFormRow/index.style.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/search/articles/components/StandardFormRow/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/search/articles/components/StandardFormRow/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/search/articles/components/TagSelect/index.style.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/search/articles/components/TagSelect/index.style.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/search/articles/components/TagSelect/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/search/articles/components/TagSelect/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/search/articles/data.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/search/articles/data.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/search/articles/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/search/articles/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/search/articles/service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/search/articles/service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/search/articles/style.style.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/search/articles/style.style.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/search/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/search/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/search/projects/_mock.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/search/projects/_mock.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/search/projects/components/AvatarList/index.style.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/search/projects/components/AvatarList/index.style.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/search/projects/components/AvatarList/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/search/projects/components/AvatarList/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/search/projects/components/StandardFormRow/index.style.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/search/projects/components/StandardFormRow/index.style.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/search/projects/components/StandardFormRow/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/search/projects/components/StandardFormRow/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/search/projects/components/TagSelect/index.style.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/search/projects/components/TagSelect/index.style.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/search/projects/components/TagSelect/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/search/projects/components/TagSelect/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/search/projects/data.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/search/projects/data.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/search/projects/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/search/projects/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/search/projects/service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/search/projects/service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/search/projects/style.style.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/search/projects/style.style.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/table-list/_mock.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/table-list/_mock.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/table-list/components/CreateForm.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/table-list/components/CreateForm.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/table-list/components/UpdateForm.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/table-list/components/UpdateForm.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/table-list/data.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/table-list/data.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/table-list/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/table-list/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/list/table-list/service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/list/table-list/service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/profile/advanced/_mock.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/profile/advanced/_mock.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/profile/advanced/data.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/profile/advanced/data.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/profile/advanced/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/profile/advanced/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/profile/advanced/service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/profile/advanced/service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/profile/advanced/style.style.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/profile/advanced/style.style.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/profile/basic/_mock.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/profile/basic/_mock.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/profile/basic/data.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/profile/basic/data.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/profile/basic/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/profile/basic/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/profile/basic/service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/profile/basic/service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/profile/basic/style.style.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/profile/basic/style.style.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/result/fail/index.style.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/result/fail/index.style.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/result/fail/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/result/fail/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/result/success/index.style.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/result/success/index.style.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/result/success/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/result/success/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/table-list/components/CreateForm.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/table-list/components/CreateForm.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/table-list/components/UpdateForm.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/table-list/components/UpdateForm.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/table-list/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/table-list/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/user/login/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/pages/user/login/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/user/login/login.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/user/register-result/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/user/register-result/style.style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/user/register/_mock.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/user/register/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/user/register/service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/pages/user/register/style.style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/services/ant-design-pro/api.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/services/ant-design-pro/api.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/services/ant-design-pro/typings.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User-fronted/src/services/ant-design-pro/typings.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/services/swagger/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/services/swagger/pet.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/services/swagger/store.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/services/swagger/typings.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/src/services/swagger/user.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/tests/setupTests.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/types/cache/cache.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/types/cache/login.cache.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/types/cache/mock/login.mock.cache.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/types/cache/mock/mock.cache.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-fronted/types/index.d.ts" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/User-fronted" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2dgDDXgU16AZeTscOcFmfP8kY37" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="f4f69f56-52cb-4a54-9b53-5fdceb205459" name="变更" comment="" />
+      <created>1710420711333</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710420711333</updated>
+      <workItem from="1710420712778" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
